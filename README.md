@@ -1,2 +1,2 @@
 # TS3EjerciciosClase
-Ejercicios realizados durante las clases de la materia Temas Selectos 3
+Ejercicios realizados para la materia Temas Selectos 3
