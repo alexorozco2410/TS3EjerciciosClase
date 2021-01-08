@@ -7,8 +7,10 @@ Se agregó el apk de la practica 4 a una carpeta de drive el día domingo 08/11/
 en la siguiente liga  
 https://drive.google.com/drive/folders/1OWfJ92-ld6EGE_uwD1kM29R487zm1AIT?usp=sharing
 
-se agregó el apk de la practica 5 el dia lunes 23/11/2020 a la siguiente carpeta de drive
+se agregó el apk de la practica 5 el día lunes 23/11/2020 a la siguiente carpeta de drive
 https://drive.google.com/drive/folders/1OWfJ92-ld6EGE_uwD1kM29R487zm1AIT?usp=sharing
 
-Se agrego el apk de la practica 6 el dia domingo 29/11/2020 a la siguiente carpeta de drive
+Se agregó el apk de la practica 6 el día domingo 29/11/2020 a la siguiente carpeta de drive
 https://drive.google.com/drive/folders/1OWfJ92-ld6EGE_uwD1kM29R487zm1AIT?usp=sharing
+
+Se agregó archivo resultante de la practica 8 el día viernes 08/01/2021
