@@ -16,3 +16,5 @@ https://drive.google.com/drive/folders/1OWfJ92-ld6EGE_uwD1kM29R487zm1AIT?usp=sha
 Se agregó archivo resultante de la practica 8 el día viernes 08/01/2021
 
 Se agregó el apk resultante de la practica 9 el día sabado 16/01/2021
+
+Se agregarón los archivos resultantes de la practica 10 el día sabado 23/01/2021
